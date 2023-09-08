@@ -1,4 +1,5 @@
 # Machine_Learning_Project
+"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs"
 #Importing Libraries
 #Loading Dataset
 #Exploratory Data Analysis
